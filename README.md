@@ -7,7 +7,12 @@
 
 **線上使用：<https://ck-x-x.github.io/xinliu-bjj/>**
 
-![心流柔術畫面](screenshot.png)
+![心流柔術畫面]<img width="1902" height="986" alt="image" src="https://github.com/user-attachments/assets/ad5ba382-f8c0-48cb-9a9b-2273cb3980b0" />
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/fb5aeecc-a448-4800-a7cb-1e5c4138b66a" />
+<img width="1915" height="980" alt="image" src="https://github.com/user-attachments/assets/3fd5e8e3-ffca-4d52-ae0b-88d46c311350" />
+
+
+
 
 ## 主要功能
 

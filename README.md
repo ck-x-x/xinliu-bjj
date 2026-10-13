@@ -37,6 +37,9 @@
 
 ## 製作方式
 
-課程作業「用 Vibe Coding 做出一個互動網頁」。以 React 19、React Flow（`@xyflow/react`）開發，用 Vite 與 `vite-plugin-singlefile` 建置成單一 `index.html`，所有程式、資料與圖片都內嵌在檔案裡。
+課程作業「用 Vibe Coding 做出一個互動網頁」：先和 AI 討論出規格書，再依規格書實作，邊試用邊修改。
 
-完整功能、驗收方式與設計決策見 [規格書](SPEC規格書%20v1.13.md)。
+規格演進： 從 v1.0 到 v1.13 共修正 13 次，例如把由左到右的路線圖改成由中心向外長出、把難以閱讀的網狀全圖改成七大家族圓圈、技術從 47 項擴增到 86 項。每一版改了什麼、為什麼改，見規格書 §10。
+技術： React 19、React Flow（@xyflow/react），用 Vite 與 vite-plugin-singlefile 建置成單一 index.html，所有程式、資料與圖片都內嵌在檔案裡；Vitest 52 項自動測試。
+
+完整功能、驗收方式與版本沿革見 規格書。
